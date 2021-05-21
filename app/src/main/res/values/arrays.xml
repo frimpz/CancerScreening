@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status">
+        <item>SURVEY</item>
+        <item>GUIDES</item>
+        <item>REQUEST KITS</item>
+        <item>SUBMIT KITS</item>
+        <item>TEST RESULTS</item>
+        <item>HEALTH PROVIDER</item>
+        <item>SURVEY</item>
+    </string-array>
+</resources>

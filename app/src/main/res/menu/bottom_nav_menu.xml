@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/guidesFragment"
+        android:icon="@drawable/guide"
+        android:title="@string/fragment_guides_label" />
+
+    <item
+        android:id="@+id/testFragment"
+        android:icon="@drawable/test"
+        android:title="@string/test" />
+
+    <item
+        android:id="@+id/providerFragment"
+        android:icon="@drawable/supplier"
+        android:title="@string/providers_fragment_label" />
+
+    <item
+        android:id="@+id/surveyFragment"
+        android:icon="@drawable/survey"
+        android:title="@string/survey_fragment_label" />
+
+    <item
+        android:id="@+id/qnAFragment"
+        android:icon="@drawable/faq"
+        android:title="@string/qn_a_fragment_label" />
+
+</menu>

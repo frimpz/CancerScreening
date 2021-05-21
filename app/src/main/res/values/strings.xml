@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Escape</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="fragment_guides_label">Guides</string>
+    <string name="kit_fragment_label">Kits</string>
+    <string name="providers_fragment_label">Health Providers</string>
+    <string name="pickup_fragment_label">Pickup</string>
+    <string name="qn_a_fragment_label">Q&amp;A</string>
+    <string name="result_fragment_label">Test Results</string>
+    <string name="survey_fragment_label">Survey</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="test">Test</string>
+    <string name="videodescription">The content of this video will cover the following topics.</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Find</string>
+
+
+    <string name="media_url_mp3">https://storage.googleapis.com/exoplayer-test-media-0/play.mp3</string>
+    <string name="media_url_mp4_1">http://elasticbeanstalk-us-east-2-818550202158.s3.us-east-2.amazonaws.com/videos/HPV%20Vaccine.mp4</string>
+    <string name="media_url_mp4_2">https://elasticbeanstalk-us-east-2-818550202158.s3.us-east-2.amazonaws.com/videos/HPV%20Vaccine.mp4</string>
+    <string name="media_url_mp4_3">https://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4</string>
+    <string name="media_url_mp4_4">https://youtu.be/qF7pBzU4D20</string>
+    <string name="media_url_mp4_5">https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4</string>
+    <string name="media_url_mp4_6">https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp5</string>
+    <string name="key_google_apis_android">AIzaSyA98oYhHgGv2CzEDhnekQtPe-wvpmtF0IE</string>
+    <string name="result_title">Test Results Unavailable</string>
+    <string name="survey_url"><![CDATA[https://baylor.qualtrics.com/jfe/form/SV_3UcQJ5Z2DvedvAV?Q_DL=0MX4G7PoNEdpVfn_3UcQJ5Z2DvedvAV_MLRP_6kTFTxM2AOfvNqt&Q_CHL=email]]></string>
+    <string name="username_error">Wrong User Name</string>
+    <string name="err_password">Invalid Password</string>
+</resources>

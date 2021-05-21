@@ -1,0 +1,15 @@
+{
+  "android": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cancerscreening-android-231344-authRole",
+      "UnauthRoleArn": "arn:aws:iam::818550202158:role/amplify-cancerscreening-android-231344-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::818550202158:role/amplify-cancerscreening-android-231344-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cancerscreening-android-231344-deployment",
+      "UnauthRoleName": "amplify-cancerscreening-android-231344-unauthRole",
+      "StackName": "amplify-cancerscreening-android-231344",
+      "StackId": "arn:aws:cloudformation:us-east-2:818550202158:stack/amplify-cancerscreening-android-231344/faa23c50-3d01-11eb-8858-0acdb02a9e76",
+      "AmplifyAppId": "d3lzx39xygi432"
+    }
+  }
+}
